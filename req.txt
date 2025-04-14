@@ -1,0 +1,3 @@
+Username = " user "
+Password = "abcd"
+url = " https://github.com/Pranav-6226/3rd_Party_Test "
